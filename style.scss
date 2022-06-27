@@ -613,6 +613,13 @@ body {
     }
 
 }
+@media screen and (max-width:400px){
+    .content{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    
+}
 
 
 //middle screen resiszing media query
